@@ -13,9 +13,9 @@ My choosen elements:
 - `<del>`: Crossed out text
 
  CSS style on:
- - '<mark>'
- - '<li> / <lo>'
- - '<summary>'
+ - `<mark>`
+ - `<li> / <lo>`
+ - `<summary>`
 
 ## Through this assignment, I learned:
 
