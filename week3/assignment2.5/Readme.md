@@ -13,11 +13,10 @@
 - Manual CSS: You have full control over details but it's more time-consuming
 - Bootstrap: It's fast and visually CONSISTENT (which is something I keep struggling with), but I think it's less helpful for complex layouts.
 
-
 ## Personal preference & reasoning:
 - I prefer Bootstrap because it’s easier to use, produces a good-looking layout quickly, and helps visualize the page while coding. But once I feel more confident to write css and html quickly and proficiently, I think using both would be beneficial. 
 
-# Challenges Encountered:
+## Challenges Encountered:
 
 - **Development time**: I fell behind due assignment 2 and it seeped into this one since I started from scratch. It took longer than expected, so while I tried to perfect other areas I did not finish bootstrap. This was another assigment that turned into a "math nightmare"
 
