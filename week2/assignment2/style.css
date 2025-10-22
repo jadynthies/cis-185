@@ -130,37 +130,3 @@ footer {
   padding: 24px var(--spacing);
   margin-top: 60px;
 }
-
-/* Other devices */
-@media (max-width: 767px) {
-  header section {
-    flex-direction: column;
-    align-items: center;
-  }
-  nav ul {
-    flex-direction: column;
-    gap: 8px;
-    margin-top: 12px;
-  }
-  main h2 {
-    font-size: 6vw;
-  }
-}
-
-@media (min-width: 768px) and (max-width: 1023px) {
-  .Jadyn-title {
-    font-size: 3vw;
-  }
-  main h2 {
-    font-size: 4vw;
-  }
-}
-
-@media (min-width: 1024px) {
-  .Jadyn-title {
-    font-size: 2vw;
-  }
-  main h2 {
-    font-size: 2.5vw;
-  }
-}
