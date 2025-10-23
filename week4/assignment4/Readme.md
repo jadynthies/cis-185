@@ -1,9 +1,9 @@
 # JavaScript Algorithms
 
 **Student Name:** Jadyn  
-**Course:** CIS 185
-**Assignment One:** JavaScript Algorithms Homework
-**Date:** 10.22.25
+**Course:** CIS 185   
+**Assignment One:** JavaScript Algorithms Homework   
+**Date:** 10.22.25   
 
 ## Project Overview
 
