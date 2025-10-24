@@ -25,13 +25,42 @@ blank
 Blank
 ```
 
-## Learning Outcomes
+## Resources used:
 
-Through this assignment, I learned:
+This video, still working through it:   
+https://www.youtube.com/watch?v=EerdGm-ehJQ
 
-1. **Blank** - Blank
+W3 Schools Javascript:   
+https://www.w3schools.com/js/js_syntax.asp
 
-   
+Lectures from...
+- Week 4 Tuesday + Thursday
+
+**AI disclaimer:**
+Used to aid in figuring out these lines below:
+
+```javascript
+function curveGrades(scores, curveAmount) {
+    // Add curveAmount to each score
+    // Cap all scores at 100 (no score above 100)
+    // Return new array, don't modify original
+    return scores.map(score => Math.min(score + curveAmount, 100));
+}
+```
+A portion of problem5.js I learned with help of AI. Specifically:
+
+```javascript
+Array.from(new Set(numbers))
+```
+```javascript
+    if (shift === 0) return [...arr];
+    return arr.slice(-shift).concat(arr.slice(0, len - shift));
+```
+```javascript
+        if (!seen.has(item)) {
+            seen.add(item);
+            result.push(item);
+```
 
 ## Challenges Encountered
 
