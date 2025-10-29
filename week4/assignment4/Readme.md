@@ -9,22 +9,6 @@
 
 This project did not require a Readme, however for personal reflection I will be keeping track of my work for future reference.
 
-## HTML Elements Implemented
-
-### 1. `<blank>` and `<blank>`
-**Blank:** Blank
-
-```javascript
-blank
-```
-
-### 2. `<blank>`
-**Blank:** Blank
-
-```javascript
-Blank
-```
-
 ## Resources used:
 
 This video, still working through it:   
@@ -44,7 +28,7 @@ function curveGrades(scores, curveAmount) {
     // Add curveAmount to each score
     // Cap all scores at 100 (no score above 100)
     // Return new array, don't modify original
-    return scores.map(score => Math.min(score + curveAmount, 100));
+    return scores.map(score => Math.min(score + curveAmount, 100)); // => Math.min
 }
 ```
 A portion of problem5.js I learned with help of AI. Specifically:
@@ -53,8 +37,8 @@ A portion of problem5.js I learned with help of AI. Specifically:
 Array.from(new Set(numbers))
 ```
 ```javascript
-    if (shift === 0) return [...arr];
-    return arr.slice(-shift).concat(arr.slice(0, len - shift));
+    if (shift === 0) return [...arr]; // THIS CONFUSED ME
+    return arr.slice(-shift).concat(arr.slice(0, len - shift)); // COULD NOT GET LINE RIGHT
 ```
 ```javascript
         if (!seen.has(item)) {
@@ -64,4 +48,4 @@ Array.from(new Set(numbers))
 
 ## Challenges Encountered
 
-- **Blank**: Blank
+- **Complexity**: Although I prefer javascript over css and html because of familiarity and consistency, a number of times I run into errors that I don't understand the answer to. I forget parentheses, I forget dots or I just don't know what objects/ methods to use. Javascript is more complex than html or css.
