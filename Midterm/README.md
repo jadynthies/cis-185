@@ -70,10 +70,17 @@ The last thing I want to implement if I can is to learn how to have the website 
 
 ## 9. Credits
 [thai constellation photo on unsplash](https://images.unsplash.com/photo-1640039986048-885b4234b749?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8)
+
 [orchid plant photo](https://www.frenchflorist.com/double-white-phalaenopsis-orchid-white-ceramic/)
+
 [zz plant photo](https://www.cb2.com/live-zanzibar-gem-zz-plant-6-in-white-ceramic-pot/s128780?srsltid=AfmBOopzzieEh_WpNW1ov4zePEuc3lPjthD0QYctE9tJ4anovBDigskj)
+
 [snake plant photo](https://www.leonandgeorge.com/plants/snake-plant-medium-nouvelle?srsltid=AfmBOopdctJqe5V_b6VILCOeHAxRF07835ieUpZJETTqx7rYrRuyHUut)
+
 [fiddle leaf fig plant photo](https://www.leonandgeorge.com/plants/fiddle-leaf-fig-plant-medium-scandinavian?srsltid=AfmBOorvDZFejxCe3WRw_905Az-l1xcjWwVQu7NR_2S77cJw6inCpY_j)
+
 [lovable.dev](https://lovable.dev)
+
 [chat.gpt](https://chatgpt.com)
+
 [HTML & CSS Full course](https://youtu.be/G3e-cpL7ofc?si=I1LAZ9j6JfFKL22v)- Not the whole video, used for css flexbox, box model, hovers, transitions, shadows, and text styles
