@@ -56,6 +56,7 @@ all readme's are on their own. This was everything felt organized and not all ov
   I often have to look up the correct elements, attributes, and custom data attributes I need.
 * I had to re-learn how to structure grids again.
 * Not really a challenge, but I was weirdly excited to use HTML placeholders.
+* Lastly, I could not for the life of me open up the site on my phone. I am confused why it's not working when it should. For reference, I use visual studio code's live server option to check my site.
 
 
 ## 7. AI Tools Used
