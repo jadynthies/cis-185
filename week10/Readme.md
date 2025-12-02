@@ -18,9 +18,7 @@
 
 Through this assignment, I learned:
 
-1. **Blank** - Using
-2. **Blank** - Using
-3. **Blank** - Using
+1. **React** - How to organize and structure a task manager app in simple form
 
 ## Challenges Encountered
 
