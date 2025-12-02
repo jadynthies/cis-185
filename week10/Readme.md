@@ -19,10 +19,11 @@
 Through this assignment, I learned:
 
 1. **React** - How to organize and structure a task manager app in simple form
+2. **Terminal** - using the terminal to run the task manager online
 
 ## Challenges Encountered
 
-1. **Blank**: Some
+1. **Javascript**: I struggled with this in my last assignments
 2.  **Blank**: Some
 3.  **Blank**: Some
 
