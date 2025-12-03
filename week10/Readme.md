@@ -35,7 +35,7 @@ Through this assignment, I learned:
 - AI was used for correcting errors such as import issues with components. like for a while my code kept underlining import TaskItem from "./TaskItem"; and similar lines even though I connected all my words and capitols correctly. I later ended up deleting and replacing the files and that worked. It turned out it was just my computer.
 - AI helped clarify JSX concepts and explain React functions.
 - AI assisted with debugging when certain files needed to be recreated.
-- I wrote most final code by myself but relied heavily on AI. I don't wish to use it as much as I did this assignment as I will in the future.
+- I wrote some final code by myself but relied heavily on AI. I don't wish to use it as much as I did this assignment as I will in the future but a lot of react was hard to understand and new.
 
 ## Features Implemented
 - Add Tasks: Users can type a task and submit it. Each task includes an id, text, created date, and a completed state.
